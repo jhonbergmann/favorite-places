@@ -1,0 +1,20 @@
+[
+  {
+    "key": "01",
+    "title": "Explore",
+    "image": "https://i.ibb.co/pLX4cWz/explore.png",
+    "text": "Pesquise e encontre agora mesmo lugares incríveis para você visitar de forma rápida, simples e completa."
+  },
+  {
+    "key": "02",
+    "title": "Compartilhe",
+    "image": "https://i.ibb.co/PZBNgnp/share.png",
+    "text": "Adicione e compartilhe lugares incríveis com outros usuários!"
+  },
+  {
+    "key": "03",
+    "title": "Avalie",
+    "image": "https://i.ibb.co/52g4KSN/evaluate.png",
+    "text": "Inclua seus feedbacks e compartilhe sua experiência com outros usuários. Comente, avalie e muito mais..."
+  }
+]

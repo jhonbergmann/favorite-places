@@ -1,0 +1,12 @@
+{
+  "name": "Favorite Places",
+  "displayName": "Favorite Places",
+  "expo": {
+    "name": "app",
+    "slug": "app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
