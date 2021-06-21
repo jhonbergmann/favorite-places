@@ -5,6 +5,12 @@
 <p align="center">Lugares Incríveis</p>
 
 <p align="center">
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JhonatanBergmann/favorite-places" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JhonatanBergmann/favorite-places" />
+  <img alt="Github License" src="https://img.shields.io/github/license/JhonatanBergmann/favorite-places" />
+</p>
+
+<p align="center">
   <img src="readme/onboarding.gif" alt="Demo">
 </p>
 <p align="center">
