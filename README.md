@@ -24,7 +24,7 @@
 
 ## 📅 Sobre
 
-Favorite Places permite procurar e compartilhar lugares incríveis, inserir fotos, localização, ver videos, comentar e muito mais!
+Favorite Places permite procurar e compartilhar lugares incríveis, inserir fotos, localização, ver vídeos, comentar e muito mais!
 
 ## 🌐 Tecnologias Usadas
 Foram usadas essas tecnologias:
