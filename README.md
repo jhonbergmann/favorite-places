@@ -56,8 +56,12 @@ Foram usadas essas tecnologias:
 
 ### ⚙️ Backend
 1. Acesse a pasta *backend* e dê o comando `yarn install`
-1. Acesse novamente a pasta *backend* e dê o comando `yarn dev`
+2. Acesse o arquivo *images_view.ts* dentro de *src/views/images_view.ts*
+3. Na linha *7* altere a url para seu ip local -> exemplo: url: `http://SEU-IP-LOCAL:3333/uploads/${image.path}`
+4. Acesse novamente a pasta *backend* e dê o comando `yarn dev`
 
 ### 📱 Mobile
 1. Acesse a pasta *mobile* e dê o comando `yarn install`
-1. Acesse novamente a pasta *mobile* e dê o comando `npx react-native run-android`
+2. Acesse o arquivo *api.js* dentro de *src/services/api.js*
+3. Na linha *4* altere a baseURL para seu ip local -> exemplo: baseURL: `http://SEU-IP-LOCAL:3333`
+4. Acesse novamente a pasta *mobile* e dê o comando `npx react-native run-android`
