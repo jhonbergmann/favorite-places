@@ -1,9 +1,20 @@
 <h1 align="center">
   Favorite Places
-  <br>
 </h1>
 
 <p align="center">Lugares Incríveis</p>
+
+<p align="center">
+  <img src="readme/onboarding.gif" alt="Demo">
+</p>
+<p align="center">
+  <img src="readme/login.gif" alt="Demo">
+  <img src="readme/places.gif" alt="Demo">
+  <img src="readme/place-photos.gif" alt="Demo">
+  <img src="readme/place-video.gif" alt="Demo">
+  <img src="readme/place-maps.gif" alt="Demo">
+  <img src="readme/place-register.gif" alt="Demo">
+</p>
 
 ## 📅 Sobre
 
