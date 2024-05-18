@@ -30,24 +30,7 @@ Favorite Places permite procurar e compartilhar lugares incríveis, inserir foto
 Foram usadas essas tecnologias:
 
 - [React Native](https://reactnative.dev/)
-- [Yarn](https://yarnpkg.com/)
-- [Async Storage](https://github.com/react-native-async-storage/async-storage)
-- [Google-Signin](https://github.com/react-native-google-signin/google-signin)
-- [React Navigation](https://reactnavigation.org/)
-- [Axios](https://github.com/axios/axios)
-- [Lottie](https://github.com/lottie-react-native/lottie-react-native)
-- [App Intro Slider](https://github.com/Jacse/react-native-app-intro-slider)
-- [React Native Elements](https://reactnativeelements.com/)
-- [Image Crop Picker](https://github.com/ivpusic/react-native-image-crop-picker)
-- [React Native Maps](https://github.com/react-native-maps/react-native-maps)
-- [Snap-Carousel](https://github.com/meliorence/react-native-snap-carousel)
-- [React Native Stars](https://www.npmjs.com/package/react-native-stars)
-- [Vector Icons](https://github.com/oblador/react-native-vector-icons)
-- [Youtube Iframe](https://www.npmjs.com/package/react-native-youtube-iframe)
-- [Styled Components](https://styled-components.com/)
-- [Typescript](https://www.typescriptlang.org/)
-
-*Foram usados outros, mas esses são os principais.*
+- [Node](https://nodejs.org/en)
 
 ## ***</>*** Como usar o código?
 1. Instale o **Yarn** em seu computador
