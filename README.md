@@ -26,7 +26,7 @@
 
 Favorite Places permite procurar e compartilhar lugares incríveis, inserir fotos, localização, ver vídeos, comentar e muito mais!
 
-## 🌐 Tecnologias Usadas
+## 🌐 Tecnologias usadas
 Foram usadas essas tecnologias:
 
 - [React Native](https://reactnative.dev/)
